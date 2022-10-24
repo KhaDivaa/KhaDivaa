@@ -1,6 +1,9 @@
 Hi! I’m Khadijah
+
 I love analysing and visualizing data
+
 I’m proficicient with Excel and Power BI
+
 I’m currently learning SQL
 
 
